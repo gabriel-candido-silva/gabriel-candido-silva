@@ -1,6 +1,5 @@
 ### Olá! Seja Bem-vindo ao meu Perfil do GitHub!
 
-<hr>
 
 Me chamo Gabriel Candido da Silva e estou graduando o curso de Sistemas para Internet na Fatec Dr. Bernardino de Campos na cidade de São Roque. Sempre fui apaixonado por tecnologia seja hardware ou softwares.
 <hr>
