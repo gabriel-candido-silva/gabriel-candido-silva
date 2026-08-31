@@ -15,12 +15,6 @@ Me chamo Gabriel Candido da Silva e estou graduando o curso de Sistemas para Int
 
 <hr>
 
-### Commits Públicos do Meu GitHub
-
-![Gabriel Candido da Silva](https://github-readme-stats.vercel.app/api?username=gabriel-candido-silva&show_icons=true&theme=tokyonight)
-
-<hr>
-
 ### Minhas Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-candido-da-silva-387474301/)
