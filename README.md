@@ -2,7 +2,7 @@
 
 
 Me chamo Gabriel Candido da Silva e estou graduando o curso de Sistemas para Internet na Fatec Dr. Bernardino de Campos na cidade de São Roque. Sempre fui apaixonado por tecnologia seja hardware ou softwares.
-Atualmente estudo construções de APIs REST utilizando Node.JS e JavaScript como stack além de utilizar HTML e CSS para criação de interfaces, sempre que possivél busco aprender novas tecnlogias para me adequar ao mercado atual.
+Atualmente estudo construções de APIs REST utilizando Node.JS e JavaScript como stack além de utilizar HTML e CSS para criação de interfaces. Sempre que possível, busco aprender novas tecnlogias para me adequar ao mercado atual.
 <hr>
 
 ### Tecnologias Utilizadas no dia a dia
